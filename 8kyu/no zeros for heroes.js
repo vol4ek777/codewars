@@ -18,3 +18,5 @@ function noBoringZeros(n) {
     }
     return n;
 }
+
+console.log("noBoringZeros:", noBoringZeros(1050))
